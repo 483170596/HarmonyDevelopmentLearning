@@ -1,0 +1,99 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#FFFFFF"
+    },{
+      "name": "blueColor",
+      "value": "#007DFF"
+    },
+    {
+      "name": "titleColor",
+      "value": "#FFBCD3EC"
+    },
+    {
+      "name": "placeholder_color",
+      "value": "#99182431"
+    },
+    {
+      "name": "background",
+      "value": "#FFC4B9F1"
+    },
+    {
+      "name": "line_color",
+      "value": "#33182431"
+    },
+    {
+      "name": "login_blue_text_color",
+      "value": "#007DFF"
+    },
+    {
+      "name": "title_text_color",
+      "value": "#182431"
+    },
+    {
+      "name": "login_more_text_color",
+      "value": "#99182431"
+    },
+    {
+      "name": "login_button_color",
+      "value": "#007DFF"
+    },
+    {
+      "name": "loading_color",
+      "value": "#182431"
+    },
+    {
+      "name": "other_login_text_color",
+      "value": "#838D97"
+    },
+    {
+      "name": "mainPage_backgroundColor",
+      "value": "#F1F3F5"
+    },
+    {
+      "name": "mainPage_selected",
+      "value": "#1698CE"
+    },
+    {
+      "name": "mainPage_normal",
+      "value": "#6B6B6B"
+    },
+    {
+      "name": "setting_button_backgroundColor",
+      "value": "#E5E8EA"
+    },
+    {
+      "name": "setting_button_fontColor",
+      "value": "#FA2A2D"
+    },
+    {
+      "name": "gray",
+      "value": "#FFD3EDF1"
+    },
+    {
+      "name": "ghost_white",
+      "value": "#FFEDF3FA"
+    },
+    {
+      "name": "white",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "Avocado_Green",
+      "value": "#93b96c"
+    },
+    {
+      "name": "font_gray",
+      "value": "#808080"
+    },
+    {
+      "name": "green",
+      "value": "#008000"
+    },
+    {
+      "name": "red",
+      "value": "#E84026"
+    }
+  ]
+}

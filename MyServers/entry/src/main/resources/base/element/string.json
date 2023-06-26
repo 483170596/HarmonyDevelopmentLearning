@@ -1,0 +1,131 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "label"
+    },
+    {
+      "name": "HarmonyHeiTi",
+      "value": "HarmonyHeiTi"
+    },
+    {
+      "name": "privacy_title",
+      "value": "请在“MyServers”权限管理中开启“XX”权限"
+    },
+    {
+      "name": "privacy_desc",
+      "value": "该功能支持XX…（功能介绍）"
+    },
+    {
+      "name": "cancel",
+      "value": "取消"
+    },
+    {
+      "name": "sure",
+      "value": "确定"
+    },{
+      "name": "MainAbility_label",
+      "value": "MyServers"
+    },
+    {
+      "name": "HarmonyHeiTi_Bold",
+      "value": "HarmonyHeiTi-Bold"
+    },
+    {
+      "name": "MainAbility_desc",
+      "value": "服务器状态一目了然"
+    },
+    {
+      "name": "input_empty_tips",
+      "value": "The input cannot be empty."
+    },
+    {
+      "name": "login_page",
+      "value": "登录页面"
+    },
+    {
+      "name": "login_more",
+      "value": "登录账号以使用更多服务"
+    },
+    {
+      "name": "account",
+      "value": "账号"
+    },
+    {
+      "name": "password",
+      "value": "密码"
+    },
+    {
+      "name": "message_login",
+      "value": "短信验证码登录"
+    },
+    {
+      "name": "forgot_password",
+      "value": "忘记密码"
+    },
+    {
+      "name": "login",
+      "value": "登录"
+    },
+    {
+      "name": "register_account",
+      "value": "注册账号"
+    },
+    {
+      "name": "other_login_method",
+      "value": "其它登录方式"
+    },
+    {
+      "name": "setting_button",
+      "value": "退出登录"
+    },
+    {
+      "name": "setting_account_name",
+      "value": "123456"
+    },
+    {
+      "name": "setting_account_email",
+      "value": "简介：这个人很懒，什么都没留下"
+    },
+    {
+      "name": "mainPage_tabTitles_mine",
+      "value": "我的"
+    },
+    {
+      "name": "setting_list_news",
+      "value": "通知"
+    },
+    {
+      "name": "setting_list_data",
+      "value": "数据"
+    },
+    {
+      "name": "setting_list_menu",
+      "value": "设置"
+    },
+    {
+      "name": "setting_list_about",
+      "value": "关于"
+    },
+    {
+      "name": "setting_list_storage",
+      "value": "清除缓存"
+    },
+    {
+      "name": "setting_list_privacy",
+      "value": "隐私协议"
+    },
+    {
+      "name": "setting_toggle",
+      "value": "switch"
+    }
+  ]
+}
